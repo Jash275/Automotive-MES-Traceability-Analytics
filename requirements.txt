@@ -1,0 +1,5 @@
+# Data visualization and figure generation
+matplotlib>=3.7.0
+
+# Automated testing suite
+pytest>=7.0.0
